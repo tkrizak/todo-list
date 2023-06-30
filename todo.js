@@ -2,11 +2,11 @@
 const todoList = JSON.parse(localStorage.getItem('todoList')) || [
   {
     name: 'make dinner',
-    dueDate: '2022-12-22',
+    dueDate: '06-30-2023',
   },
   {
     name: 'wash dishes',
-    dueDate: '2022-12-22',
+    dueDate: '06-30-2023',
   },
 ];
 
